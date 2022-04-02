@@ -1,4 +1,4 @@
-<h1 align="center">Multithreads-NITK-HackVerse👋</h1>
+<h1 align="center">hades.ai Hack in the North 5.0 👋</h1>
 
 To run the project follow the commands listed below
 
@@ -7,7 +7,7 @@ To run the project follow the commands listed below
 
 **Step 2** Clone the repository by this command
  ```sh
- git clone https://github.com/YOUR_USERNAME/Multithreads-NITK-HackVerse.git
+ git clone https://github.com/hades-ai/Animal-Recognisation
  ```
  
  ### Prerequisites
@@ -35,8 +35,8 @@ The system will also make an emergency call.
   
   **few pictures of our model**
   
-  ![alt text](https://github.com/yasharth291/hack/blob/master/Prototype_model1.jpeg)
-  ![alt text](https://github.com/yasharth291/hack/blob/master/Prototype_model%202.jpeg)
-  ![alt text](https://github.com/yasharth291/hack/blob/master/Prototype%20model%203.jpeg)
-  ![alt text](https://github.com/yasharth291/hack/blob/master/Prototype%20Model%204.jpeg)
+  ![alt text](https://github.com/hades-ai/Animal-Recognisation/blob/main/Prototype_model1.jpeg)
+  ![alt text](https://github.com/hades-ai/Animal-Recognisation/blob/main/Prototype_model%202.jpeg)
+  ![alt text](https://github.com/hades-ai/Animal-Recognisation/blob/main/Prototype%20model%203.jpeg)
+  ![alt text](https://github.com/hades-ai/Animal-Recognisation/blob/main/Prototype%20Model%204.jpeg)
   
